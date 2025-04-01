@@ -69,5 +69,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Issues
 
 If you find a bug or want to request a feature, please open an issue on [GitHub](https://github.com/inject3r/EcmaTimer/issues).
->>>>>>> e7009a8 (ـ)
->>>>>>> 21843ea (Upload v1.0.0 EcmaTimer)
+(ـ
