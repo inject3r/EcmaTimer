@@ -3,8 +3,6 @@
 [![PyPI version](https://img.shields.io/pypi/v/EcmaTimer.svg?logo=pypi&logoColor=FFE873)](https://pypi.org/project/EcmaTimer)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/EcmaTimer.svg?logo=python&logoColor=FFE873)](https://pypi.org/project/EcmaTimer)
 [![PyPI downloads](https://img.shields.io/pypi/dm/ecmatimer.svg)](https://pypistats.org/packages/ecmatimer)
-[![GitHub Actions status](https://github.com/inject3r/EcmaTimer/workflows/Test/badge.svg)](https://github.com/inject3r/EcmaTimer/actions)
-[![Licence](https://img.shields.io/github/license/inject3r/EcmaTimer.svg)](COPYING.txt)
 [![Code style: Black](https://img.shields.io/badge/code%20style-Black-000000.svg)](https://github.com/psf/black)
 
 ## Installation
